@@ -47,3 +47,6 @@ npm install -d
 
 # Fix source directory permissions
 fix-permissions ./
+
+# run gulp tasks
+node node_modules/gulp/bin/gulp.js inject
